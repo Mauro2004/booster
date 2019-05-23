@@ -154,6 +154,11 @@ color: black;
   height: 100%;
   padding-top: 76.4px;
 }
+#container-cards {
+  padding-left: 5px;
+  padding-right: 5px;
+  
+}
 
 }
 .md-tabs .nav-item.open .nav-link, .md-tabs .nav-link.active{
